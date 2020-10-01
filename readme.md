@@ -1,5 +1,6 @@
 # Zone
 Change the mood of your home with Sonos.
+It helps to keep your sorroundings calm and joyfull
 
 ![Screenshot](doc/screenshot.png)
 
